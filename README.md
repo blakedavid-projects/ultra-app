@@ -1,2 +1,2 @@
 # ultra-app
-An ultra training app that I'll be using to test AI app builders
+An ultra training app that Ill be using to test AI app builders
